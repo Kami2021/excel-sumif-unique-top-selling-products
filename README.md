@@ -3,7 +3,7 @@
 This repository contains resources for my YouTube tutorial:  
 📺 https://youtu.be/opaZPhYLvfw
 
-In this data analytics project, I demonstrate how to use Excel’s **SUMIF** and **UNIQUE** formulas to analyze sales data and automatically identify the **top-selling product**.  
+In this data analytics project, I demonstrate how to use Excel’s **SUMIF** and **UNIQUE** functions to analyze sales data and automatically identify the **top-selling product**.  
 It’s a beginner-friendly approach to basic data analytics using only formulas — no PivotTables required.
 
 ---
