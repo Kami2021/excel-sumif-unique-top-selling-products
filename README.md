@@ -5,6 +5,8 @@ This repository contains resources for my YouTube tutorial:
 
 In this data analytics project, I demonstrate how to use Excel’s **SUMIF** and **UNIQUE** functions to analyze sales data and automatically identify the **top-selling product**.  
 It’s a beginner-friendly approach to basic data analytics using only formulas — no PivotTables required.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b8521a47-7ba7-49f2-9240-5c7b20c25726" />
+
 
 ---
 
