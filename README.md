@@ -55,7 +55,7 @@ That product is your **best seller**, which can be recommended to management for
 
 * 📺 [SUMIF & UNIQUE Tutorial Video](https://youtu.be/opaZPhYLvfw)
 * 📺 [🔥Excel VLOOKUP Made Easy | Learn with Dynamic Tables + Free Practice File](https://youtu.be/IYg_m0PTYPk)
-* 📂 [Download Sample Excel Sheet](Your-Sheet-Link)
+* 📂 [Download Sample Excel Sheet](https://github.com/Kami2021/excel-sumif-unique-top-selling-products/blob/main/IceCreamSales.xlsx)
 
 ---
 
